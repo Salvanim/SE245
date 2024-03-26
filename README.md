@@ -35,6 +35,7 @@ videos assigned as homework.
 2) An external storage drive ie: Flash drive, external hard-drive, cloud-based
 drive.
 3) Earbuds / Headphones with Microphone.
+
 Course Learning Outcomes/Assessment Measures:
 By the end of this course, the student will be able to:
 • Design, build, execute and debug C# applications.
@@ -64,7 +65,7 @@ their technical documents, and code implementation.
 Instructional Strategies/Methodology:
 ▪ This course will be taught using discussions, in class exercises and
 presentations, selected readings, lectures and videos.
-Page 2
+
 Course Syllabus
 Evaluation and Grading Criteria:
 Quizzes/Activities/Participation 30%
@@ -87,7 +88,7 @@ Make-up Policy:
 ▪ Deliverables MUST be complete and handed in by the due date.
 ▪ If the assignment was handed in early or on time and there are errors
 within the current lesson, students will be given the opportunity to
-Page 3
+
 Course Syllabus
 resubmit once by Thursday of the following week.
 ▪ The instructor is not responsible for maintaining a copy of your project
@@ -130,7 +131,7 @@ dishonesty for purposes of this policy.
 Notwithstanding, a student with a disability may be permitted to use notes, books, or
 electronic devices during assessments if the course instructor has been informed by the
 504 Coordinator that the use qualifies as a reasonable accommodation for that student
-Page 4
+
 Course Syllabus
 based on a diagnosed disability as long as the accommodation does not affect the
 academic integrity of the course as determined by NEIT.
@@ -169,7 +170,7 @@ Student Technical Support for Online Courses:
 User guides with step-by-step instructions on using Canvas are linked to through the
 “Help” button in your course. Canvas also provides help via phone or email. Please take
 advantage of this 24/7 resource if you need technical help in your online course.
-Page 5
+
 Course Syllabus
 Please note that technical problems with your computer/software are not considered an
 acceptable excuse for missed work. It is recommended that you develop a back-up plan
