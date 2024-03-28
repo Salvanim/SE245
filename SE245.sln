@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SE245", "SE245.csproj", "{F5DF6680-C4BD-43CD-BFD0-E75897F1A2B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "w1", "w1", "{59BF73FE-9330-4D64-9545-3A10279EACB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloWorld", "w1\helloWorld\helloWorld.csproj", "{BE509F21-F45F-4027-A85E-9DEEFFD03DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DF6680-C4BD-43CD-BFD0-E75897F1A2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DF6680-C4BD-43CD-BFD0-E75897F1A2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DF6680-C4BD-43CD-BFD0-E75897F1A2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DF6680-C4BD-43CD-BFD0-E75897F1A2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE509F21-F45F-4027-A85E-9DEEFFD03DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE509F21-F45F-4027-A85E-9DEEFFD03DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE509F21-F45F-4027-A85E-9DEEFFD03DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE509F21-F45F-4027-A85E-9DEEFFD03DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE509F21-F45F-4027-A85E-9DEEFFD03DA6} = {59BF73FE-9330-4D64-9545-3A10279EACB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B05254-3387-42BB-9E79-2CA2020889FE}
+	EndGlobalSection
+EndGlobal

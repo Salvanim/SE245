@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Documents\\GitHub\\SE245\\SE245.csproj": {}
+    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\SE245.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Documents\\GitHub\\SE245\\SE245.csproj": {
+    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\SE245.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Documents\\GitHub\\SE245\\SE245.csproj",
+        "projectUniqueName": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\SE245.csproj",
         "projectName": "SE245",
-        "projectPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Documents\\GitHub\\SE245\\SE245.csproj",
+        "projectPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\SE245.csproj",
         "packagesPath": "C:\\Users\\008021463\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Documents\\GitHub\\SE245\\obj\\",
+        "outputPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
