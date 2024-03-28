@@ -2,8 +2,7 @@ using System;
 
 namespace HelloWorld
 {
-  class Program
-  {
+  class Program{
     static void Main(string[] args)
     {
       const string name = "Dylan";

@@ -9,7 +9,7 @@ namespace w1GroupAct {
         static void Main (string[] args) {
             //Initialzes Varriables
             String strFirst, strOperand, strNum2, strNum1;
-            Int32 intNum1 = 0, intNum2 = 0, intNum3, intResult = 0;
+            Double intNum1 = 0, intNum2 = 0, intResult = 0;
             Double dblResult;
 
             //Gets user's name and addresses user
@@ -31,8 +31,8 @@ namespace w1GroupAct {
             strNum2 = Console.ReadLine();
 
             //Parses provided numbers to ints
-            intNum1 = Convert.ToInt32 (strNum1);
-            intNum2 = Convert.ToInt32 (strNum2);
+            intNum1 = Convert.ToDouble(strNum1);
+            intNum2 = Convert.ToDouble(strNum2);
 
             //Performs opperations based on users input
             switch (strOperand) {
