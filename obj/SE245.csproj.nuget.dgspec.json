@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\SE245\\w1\\helloWorld\\helloWorld.csproj": {}
+    "Z:\\SE245\\SE245.csproj": {}
   },
   "projects": {
-    "Z:\\SE245\\w1\\helloWorld\\helloWorld.csproj": {
+    "Z:\\SE245\\SE245.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\SE245\\w1\\helloWorld\\helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "Z:\\SE245\\w1\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "Z:\\SE245\\SE245.csproj",
+        "projectName": "SE245",
+        "projectPath": "Z:\\SE245\\SE245.csproj",
         "packagesPath": "C:\\Users\\008021463\\.nuget\\packages\\",
-        "outputPath": "Z:\\SE245\\w1\\helloWorld\\obj\\",
+        "outputPath": "Z:\\SE245\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

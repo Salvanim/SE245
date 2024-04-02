@@ -28,3 +28,18 @@ C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.pdb
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.genruntimeconfig.cache
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\helloWorld\obj\Debug\net7.0\ref\helloWorld.dll
+Z:\SE245\w1\helloWorld\bin\Debug\net7.0\helloWorld.exe
+Z:\SE245\w1\helloWorld\bin\Debug\net7.0\helloWorld.deps.json
+Z:\SE245\w1\helloWorld\bin\Debug\net7.0\helloWorld.runtimeconfig.json
+Z:\SE245\w1\helloWorld\bin\Debug\net7.0\helloWorld.dll
+Z:\SE245\w1\helloWorld\bin\Debug\net7.0\helloWorld.pdb
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.csproj.AssemblyReference.cache
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfoInputs.cache
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfo.cs
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.csproj.CoreCompileInputs.cache
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.dll
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\refint\helloWorld.dll
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.pdb
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\helloWorld.genruntimeconfig.cache
+Z:\SE245\w1\helloWorld\obj\Debug\net7.0\ref\helloWorld.dll
