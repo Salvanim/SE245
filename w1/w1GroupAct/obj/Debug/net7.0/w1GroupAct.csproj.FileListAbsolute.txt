@@ -13,3 +13,18 @@ C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.pdb
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.genruntimeconfig.cache
 C:\Users\008021463\OneDrive - New England Institute of Technology\Desktop\SE245\w1\w1GroupAct\obj\Debug\net7.0\ref\w1GroupAct.dll
+Z:\SE245\w1\w1GroupAct\bin\Debug\net7.0\w1GroupAct.exe
+Z:\SE245\w1\w1GroupAct\bin\Debug\net7.0\w1GroupAct.deps.json
+Z:\SE245\w1\w1GroupAct\bin\Debug\net7.0\w1GroupAct.runtimeconfig.json
+Z:\SE245\w1\w1GroupAct\bin\Debug\net7.0\w1GroupAct.dll
+Z:\SE245\w1\w1GroupAct\bin\Debug\net7.0\w1GroupAct.pdb
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.csproj.AssemblyReference.cache
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.AssemblyInfoInputs.cache
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.AssemblyInfo.cs
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.csproj.CoreCompileInputs.cache
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.dll
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\refint\w1GroupAct.dll
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.pdb
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\w1GroupAct.genruntimeconfig.cache
+Z:\SE245\w1\w1GroupAct\obj\Debug\net7.0\ref\w1GroupAct.dll

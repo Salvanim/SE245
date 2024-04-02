@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj": {}
+    "Z:\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj": {
+    "Z:\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj",
+        "projectUniqueName": "Z:\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj",
         "projectName": "w1GroupAct",
-        "projectPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj",
+        "projectPath": "Z:\\SE245\\w1\\w1GroupAct\\w1GroupAct.csproj",
         "packagesPath": "C:\\Users\\008021463\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008021463\\OneDrive - New England Institute of Technology\\Desktop\\SE245\\w1\\w1GroupAct\\obj\\",
+        "outputPath": "Z:\\SE245\\w1\\w1GroupAct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
