@@ -15,7 +15,7 @@ namespace Week2_Sample1 {
             List<List<double>> allStudentGrades = new List<List<double>>();
             List<double> studentGrades = new List<double>();
             List<double> averages = new List<double>();
-            List<string> gradeLetters
+            List<string> gradeLetters = new List<double>();
             double grade = 0.0;
             double average = 0;
             bool blnResult = false;
