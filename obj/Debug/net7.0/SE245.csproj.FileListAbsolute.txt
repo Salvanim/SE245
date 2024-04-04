@@ -1,5 +1,0 @@
-Z:\SE245\obj\Debug\net7.0\SE245.csproj.AssemblyReference.cache
-Z:\SE245\obj\Debug\net7.0\SE245.GeneratedMSBuildEditorConfig.editorconfig
-Z:\SE245\obj\Debug\net7.0\SE245.AssemblyInfoInputs.cache
-Z:\SE245\obj\Debug\net7.0\SE245.AssemblyInfo.cs
-Z:\SE245\obj\Debug\net7.0\SE245.csproj.CoreCompileInputs.cache

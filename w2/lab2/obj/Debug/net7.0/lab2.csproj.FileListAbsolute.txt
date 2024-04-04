@@ -1,0 +1,15 @@
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+Z:\SE245\w2\lab2\bin\Debug\net7.0\lab2.exe
+Z:\SE245\w2\lab2\bin\Debug\net7.0\lab2.deps.json
+Z:\SE245\w2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+Z:\SE245\w2\lab2\bin\Debug\net7.0\lab2.dll
+Z:\SE245\w2\lab2\bin\Debug\net7.0\lab2.pdb
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.dll
+Z:\SE245\w2\lab2\obj\Debug\net7.0\refint\lab2.dll
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.pdb
+Z:\SE245\w2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+Z:\SE245\w2\lab2\obj\Debug\net7.0\ref\lab2.dll
