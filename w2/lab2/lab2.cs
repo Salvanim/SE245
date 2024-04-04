@@ -15,11 +15,11 @@ namespace Week2_Sample1 {
             List<List<double>> allStudentGrades = new List<List<double>>();
             List<double> studentGrades = new List<double>();
             List<double> averages = new List<double>();
-            List<string> gradeLetters = new List<double>();
             double grade = 0.0;
-            double average = 0;
+            double average = 0.0;
+            double averagesAverage = 0.0;
             bool blnResult = false;
-            
+
             while(enterStudent == "" || enterStudent == "Y"){
                 enterGrade = "";
                 studentName = "";
@@ -34,54 +34,99 @@ namespace Week2_Sample1 {
                         Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex Y");
                     }
                 }
-            
-                Console.Write ("\nWhat is the name of the student?: ");
-                studentName = Console.ReadLine();
-                students.Add(studentName);
 
-                while(enterGrade == "" || enterGrade == "Y"){
-                    do {
-                        Console.Write ($"\nWhat is grade of {studentName}?: ");
-                        strNum = Console.ReadLine ();
+                if(enterStudent == "Y"){
+                    Console.Write ("\nWhat is the name of the student?: ");
+                    studentName = Console.ReadLine();
+                    students.Add(studentName);
 
-                        blnResult = Double.TryParse (strNum, out grade);
+                    while(enterGrade == "" || enterGrade == "Y"){
+                        do {
+                            Console.Write ($"\nWhat is a grade of {studentName}? (%): ");
+                            strNum = Console.ReadLine ();
 
-                        if (blnResult == false) {
-                            Console.WriteLine ("\nSorry, but you did not enter a valid real number in digits: Ex 1051.00."); //checks if user input is a real number
+                            blnResult = Double.TryParse (strNum, out grade);
+
+                            if (blnResult == false) {
+                                Console.WriteLine ("\nSorry, but you did not enter a valid real number in digits: Ex 1051.00."); //checks if user input is a real number
+                            }
+                        } while (blnResult == false);
+                    
+                        studentGrades.Add(grade);
+                        enterGrade = "";
+                    
+                        while(enterGrade != "Y" && enterGrade != "N"){
+                            Console.Write ("\nDo you want to enter another grade (Y/N)?: ");
+                            enterGrade = Console.ReadLine().ToUpper();
+                            if(enterGrade != "Y" && enterGrade != "N"){
+                                Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex 'Y'");
+                            }
                         }
-                    } while (blnResult == false);
+                    }
 
-                    studentGrades.Add(grade);
-                    enterGrade = "";
+                    allStudentGrades.Add(studentGrades);
 
-                    while(enterGrade != "Y" && enterGrade != "N"){
-                        Console.Write ("\nDo you want to enter another grade (Y/N)?: ");
-                        enterGrade = Console.ReadLine().ToUpper();
-                        if(enterGrade != "Y" && enterGrade != "N"){
-                            Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex 'Y'");
+                    foreach(double gra in studentGrades){
+                        average += gra;
+                    }
+
+                    average /= studentGrades.Count;
+                    averages.Add(average);
+
+                    studentGrades = new List<double>();
+                    enterStudent = "";
+
+                    while(enterStudent != "Y" && enterStudent != "N"){
+                        Console.Write ("\nDo you want to enter another student (Y/N): ");
+                        enterStudent = Console.ReadLine().ToUpper();
+                        if(enterStudent != "Y" && enterStudent != "N"){
+                            Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex Y");
                         }
                     }
                 }
+            }
 
-                allStudentGrades.Add(studentGrades);
-
-                foreach(double gra in studentGrades){
-                    average += gra;
+            if(allStudentGrades.Count() > 0){
+                foreach(int a in averages){
+                    averagesAverage += a;
                 }
-
-                average /= studentGrades.Count;
-                averages.Add(average);
-
-                studentGrades = new List<double>();
-                enterStudent = "";
-
-                while(enterStudent != "Y" && enterStudent != "N"){
-                    Console.Write ("\nDo you want to enter another student (Y/N): ");
-                    enterStudent = Console.ReadLine().ToUpper();
-                    if(enterStudent != "Y" && enterStudent != "N"){
-                        Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex Y");
+                averagesAverage /= averages.Count;
+                
+                int maxLength = 0;
+                foreach(List<double> studentGradeList in allStudentGrades){
+                    if(studentGradeList.Count > maxLength){
+                        maxLength = studentGradeList.Count;
                     }
                 }
+                
+                string gradeIndexStrings = "";
+                for(int gradeIndex = 0; gradeIndex < maxLength; gradeIndex++){
+                    gradeIndexStrings += $"\t Grade {gradeIndex} ";
+                }
+
+                Console.WriteLine($"\nName {gradeIndexStrings} \t Average");
+                for(int i = 0; i < allStudentGrades.Count; i++){
+                    string currentStudentGrade = students[i] + " \t ";
+                    for(int g = 0; g < maxLength; g++){
+                        if(g >= allStudentGrades[i].Count){
+                            currentStudentGrade += "  \t\t ";
+                        } else {
+                            if(allStudentGrades[i][g] < 60){
+                                currentStudentGrade += " F \t\t ";
+                            }else if(allStudentGrades[i][g] < 70){
+                                currentStudentGrade += " D \t\t ";
+                            }else if(allStudentGrades[i][g] < 80){
+                                currentStudentGrade += " C \t\t ";
+                            }else if(allStudentGrades[i][g] < 90){
+                                currentStudentGrade += " B \t\t ";
+                            } else {
+                                currentStudentGrade += " A \t\t ";
+                            }
+                        }
+                    }
+                    Console.WriteLine(currentStudentGrade + averages[i].ToString());
+                }
+                Console.WriteLine($"Average Grade across all students: {averagesAverage}");
             }
         }
     }
