@@ -1,0 +1,15 @@
+Z:\SE245\w2\w2sample1\bin\Debug\net7.0\w2sample1.exe
+Z:\SE245\w2\w2sample1\bin\Debug\net7.0\w2sample1.deps.json
+Z:\SE245\w2\w2sample1\bin\Debug\net7.0\w2sample1.runtimeconfig.json
+Z:\SE245\w2\w2sample1\bin\Debug\net7.0\w2sample1.dll
+Z:\SE245\w2\w2sample1\bin\Debug\net7.0\w2sample1.pdb
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.csproj.AssemblyReference.cache
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.AssemblyInfoInputs.cache
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.AssemblyInfo.cs
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.csproj.CoreCompileInputs.cache
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.dll
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\refint\w2sample1.dll
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.pdb
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\w2sample1.genruntimeconfig.cache
+Z:\SE245\w2\w2sample1\obj\Debug\net7.0\ref\w2sample1.dll
