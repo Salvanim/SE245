@@ -1,0 +1,15 @@
+Z:\SE245\w3\w3Sample1\bin\Debug\net7.0\w3Sample1.exe
+Z:\SE245\w3\w3Sample1\bin\Debug\net7.0\w3Sample1.deps.json
+Z:\SE245\w3\w3Sample1\bin\Debug\net7.0\w3Sample1.runtimeconfig.json
+Z:\SE245\w3\w3Sample1\bin\Debug\net7.0\w3Sample1.dll
+Z:\SE245\w3\w3Sample1\bin\Debug\net7.0\w3Sample1.pdb
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.csproj.AssemblyReference.cache
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.AssemblyInfoInputs.cache
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.AssemblyInfo.cs
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.csproj.CoreCompileInputs.cache
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.dll
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\refint\w3Sample1.dll
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.pdb
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\w3Sample1.genruntimeconfig.cache
+Z:\SE245\w3\w3Sample1\obj\Debug\net7.0\ref\w3Sample1.dll
