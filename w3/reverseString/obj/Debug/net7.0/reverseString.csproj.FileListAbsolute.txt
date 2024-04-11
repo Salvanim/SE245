@@ -1,0 +1,15 @@
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.csproj.AssemblyReference.cache
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.AssemblyInfoInputs.cache
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.AssemblyInfo.cs
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.csproj.CoreCompileInputs.cache
+Z:\SE245\w3\reverseString\bin\Debug\net7.0\reverseString.exe
+Z:\SE245\w3\reverseString\bin\Debug\net7.0\reverseString.deps.json
+Z:\SE245\w3\reverseString\bin\Debug\net7.0\reverseString.runtimeconfig.json
+Z:\SE245\w3\reverseString\bin\Debug\net7.0\reverseString.dll
+Z:\SE245\w3\reverseString\bin\Debug\net7.0\reverseString.pdb
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.dll
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\refint\reverseString.dll
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.pdb
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\reverseString.genruntimeconfig.cache
+Z:\SE245\w3\reverseString\obj\Debug\net7.0\ref\reverseString.dll
