@@ -1,0 +1,15 @@
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.csproj.AssemblyReference.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.AssemblyInfoInputs.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.AssemblyInfo.cs
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.csproj.CoreCompileInputs.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\bin\Debug\net7.0\classLab.exe
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\bin\Debug\net7.0\classLab.deps.json
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\bin\Debug\net7.0\classLab.runtimeconfig.json
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\bin\Debug\net7.0\classLab.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\bin\Debug\net7.0\classLab.pdb
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\refint\classLab.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.pdb
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\classLab.genruntimeconfig.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w4\classLab\obj\Debug\net7.0\ref\classLab.dll
