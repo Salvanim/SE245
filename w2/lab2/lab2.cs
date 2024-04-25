@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Week2_Sample1 {
     class Program {
 
-        static void forceAnwser(string question, string anwser){
+        static void forceAnwser(string question, ref string anwser){
             while(anwser != "Y" && anwser != "N"){
                 Console.Write ($"\n{question} ");
                 anwser = Console.ReadLine().ToUpper();
@@ -68,24 +68,11 @@ namespace Week2_Sample1 {
                     
                         studentGrades.Add(grade);
                         enterGrade = "";
-                    
-                        while(enterGrade != "Y" && enterGrade != "N"){
-                            Console.Write ("\nDo you want to enter another grade (Y/N)?: ");
-                            enterGrade = Console.ReadLine().ToUpper();
-                            if(enterGrade != "Y" && enterGrade != "N"){
-                                Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex 'Y'");
-                            }
-                        }
+                        forceAnwser("Do you want to enter another grade (Y/N)?:", enterGrade)
                     }
 
                     allStudentGrades.Add(studentGrades);
-
-                    foreach(double gra in studentGrades){
-                        average += gra;
-                    }
-
-                    average /= studentGrades.Count;
-                    averages.Add(average);
+                    averages.Add(getAverage(studentGrades));
 
                     studentGrades = new List<double>();
                     enterStudent = "";
@@ -95,10 +82,7 @@ namespace Week2_Sample1 {
             }
 
             if(allStudentGrades.Count() > 0){
-                foreach(int a in averages){
-                    averagesAverage += a;
-                }
-                averagesAverage /= averages.Count;
+                averagesAverage = getAverage(averages);
                 
                 int maxLength = 0;
                 foreach(List<double> studentGradeList in allStudentGrades){
