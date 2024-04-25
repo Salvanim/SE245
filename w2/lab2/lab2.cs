@@ -6,6 +6,26 @@ using System.Threading.Tasks;
 
 namespace Week2_Sample1 {
     class Program {
+
+        static void forceAnwser(string question, string anwser){
+            while(anwser != "Y" && anwser != "N"){
+                Console.Write ($"\n{question} ");
+                anwser = Console.ReadLine().ToUpper();
+                if(anwser != "Y" && anwser != "N"){
+                    Console.WriteLine ("\nSorry, but you did not enter a valid response: ");
+                }
+            }
+        }
+
+        static double getAverage(List<double> numbers){
+            double average = 0.0;
+            foreach(double num in numbers){
+                average += numbers;
+            }
+            average /= numbers.Count;
+            return average;
+        }
+
         static void Main (string[] args) {
             string enterStudent = "";
             string enterGrade = "";
@@ -27,13 +47,7 @@ namespace Week2_Sample1 {
                 grade = 0.0;
                 average = 0.0;
 
-                while(enterStudent != "Y" && enterStudent != "N"){
-                    Console.Write ("\nDo you want to enter a student (Y/N): ");
-                    enterStudent = Console.ReadLine().ToUpper();
-                    if(enterStudent != "Y" && enterStudent != "N"){
-                        Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex Y");
-                    }
-                }
+                forceAnwser("Do you want to enter a student (Y/N): ", ref enterStudent);
 
                 if(enterStudent == "Y"){
                     Console.Write ("\nWhat is the name of the student?: ");
@@ -76,13 +90,7 @@ namespace Week2_Sample1 {
                     studentGrades = new List<double>();
                     enterStudent = "";
 
-                    while(enterStudent != "Y" && enterStudent != "N"){
-                        Console.Write ("\nDo you want to enter another student (Y/N): ");
-                        enterStudent = Console.ReadLine().ToUpper();
-                        if(enterStudent != "Y" && enterStudent != "N"){
-                            Console.WriteLine ("\nSorry, but you did not enter a valid response: Ex Y");
-                        }
-                    }
+                    forceAnwser("Do you want to enter another student (Y/N): ", ref enterStudent);
                 }
             }
 
