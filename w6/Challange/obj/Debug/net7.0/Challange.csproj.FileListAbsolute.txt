@@ -3,3 +3,13 @@ C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitH
 C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.AssemblyInfoInputs.cache
 C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.AssemblyInfo.cs
 C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.csproj.CoreCompileInputs.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\bin\Debug\net7.0\Challange.exe
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\bin\Debug\net7.0\Challange.deps.json
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\bin\Debug\net7.0\Challange.runtimeconfig.json
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\bin\Debug\net7.0\Challange.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\bin\Debug\net7.0\Challange.pdb
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\refint\Challange.dll
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.pdb
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\Challange.genruntimeconfig.cache
+C:\Users\008021463\OneDrive - New England Institute of Technology\Documents\GitHub\SE245\w6\Challange\obj\Debug\net7.0\ref\Challange.dll

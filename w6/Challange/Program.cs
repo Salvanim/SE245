@@ -6,23 +6,29 @@ namespace midterm
   class Program{
 
     static void Main(string[] args){
-        Console.WriteLine(isPalindrome("Race Car").ToString());
+        Console.WriteLine(isPalindrome("RacE car?"));
     }
 
-    public bool isPalindrome(string testString){
-        testString = testString.ToUpper().Replace(" ", "");
-        string reversedString = "";
-        for(int i = testString.Length; i > 0; i--){
-            reversedString = testString[i].ToString();
-        }
-        if(reversedString == testString){
-            return true;
-        }
-        return false;
-    }
+    public static bool isPalindrome(string testString){
+        testString = testString.ToUpper();
+        int fi = 0;
+        int bi = testString.Length-1;
+        while(fi < testString.Length/2 && bi >= testString.Length/2){
+            if (testString[fi] == ' ' || char.IsPunctuation(testString[fi])){
+                fi++;
+            }
 
-    public string onlyBaseText(string stringToConvert){
-        return stringToConvert.ToUpper().Replace(" ", "");
+            if (testString[bi] == ' ' || char.IsPunctuation(testString[bi])){
+                bi--;
+            }
+            
+            if(testString[fi] != testString[bi]){
+                return false;
+            }
+            fi++; 
+            bi--;
+        }
+        return true;
     }
 
   }
