@@ -10,7 +10,6 @@ namespace midterm
     }
 
     public static bool isPalindrome(string testString){
-        testString = testString.ToUpper();
         int fi = 0;
         int bi = testString.Length-1;
         while(fi < testString.Length/2 && bi >= testString.Length/2){
@@ -22,7 +21,7 @@ namespace midterm
                 bi--;
             }
             
-            if(testString[fi] != testString[bi]){
+            if(Char.ToLower(testString[fi]) != Char.ToLower(testString[bi]) ){
                 return false;
             }
             fi++; 
