@@ -6,7 +6,7 @@ namespace midterm
   class Program{
 
     static void Main(string[] args){
-        Console.WriteLine(isPalindrome("RacE car?"));
+        Console.WriteLine(isPalindrome("racecar"));
     }
 
     public static bool isPalindrome(string testString){
